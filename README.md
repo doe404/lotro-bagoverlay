@@ -53,5 +53,5 @@ BagOverlay adds a small draggable icon to your screen. Clicking it opens an over
 
 Found a bug or have a suggestion? You can reach out through either of the following:
 
-- **GitHub:** [github.com/gymgnopf/lotro-bagoverlay](https://github.com/gymgnopf/lotro-bagoverlay) — open an issue for bug reports or feature requests
+- **GitHub:** [github.com/doe404/lotro-bagoverlay](https://github.com/doe404/lotro-bagoverlay) — open an issue for bug reports or feature requests
 - **LotRO Interface:** [lotrointerface.com](https://www.lotrointerface.com) — leave a comment on the plugin page (user: gymgnopf)
