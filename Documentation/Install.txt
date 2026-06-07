@@ -50,5 +50,5 @@ USAGE
 
 BUG REPORTS & FEEDBACK
 -----------------------
-  GitHub       : https://github.com/gymgnopf/lotro-bagoverlay
+  GitHub       : https://github.com/doe404/lotro-bagoverlay
   LotRO Interface : http://www.lotrointerface.com/downloads/info1279  (user: gymgnopf)
