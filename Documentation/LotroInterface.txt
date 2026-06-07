@@ -57,5 +57,5 @@ Add /bagov chat command to toggle the overlay
 
 [B]Bug Reports & Feedback[/B]
 Found a bug or have a suggestion? You can reach out through either of the following:
-GitHub: [URL="https://github.com/gymgnopf/lotro-bagoverlay"]https://github.com/gymgnopf/lotro-bagoverlay[/URL] - open an issue for bug reports or feature requests
+GitHub: [URL="https://github.com/doe404/lotro-bagoverlay"]https://github.com/doe404/lotro-bagoverlay[/URL] - open an issue for bug reports or feature requests
 LotRO Interface: leave a comment here
